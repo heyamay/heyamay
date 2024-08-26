@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyamay](https://github.com/heyamay)
 
-- 💬 Ask me about **Web Development || C || JAVA || PYTHON || Data Analysis**
+- 💬 Ask me about **C || JAVA || PYTHON || Data Analysis || Power BI || SQL || MS Excel**
 
 - 📫 How to reach me **amayjaiswal@gmail.com**
 
