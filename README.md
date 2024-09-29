@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Mobile Application For Diet Recall**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analysis  & Data Science**
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+- 👯 I’m looking to collaborate on **Data Analytics & Data Science Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyamay](https://github.com/heyamay)
 
-- 💬 Ask me about **C || JAVA || PYTHON || Data Analysis || Power BI || SQL || MS Excel**
+- 💬 Ask me about **C || JAVA || PYTHON || Data Analysis || Data Visualization || Data Science ||  Power BI || SQL || MS Excel || Machine Learning**
 
 - 📫 How to reach me **amayjaiswal@gmail.com**
 
