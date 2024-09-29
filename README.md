@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C || JAVA || PYTHON || Data Analysis || Data Visualization || Data Science ||  Power BI || SQL || MS Excel || Machine Learning**
 
-- 📫 How to reach me **amayjaiswal@gmail.com**
+- 📫 How to reach me **amayjaiswal@gmail.com & [Linkedin](https://www.linkedin.com/in/heyamay/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
