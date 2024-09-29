@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Amay Jaiswal</h1>
+# Hi 👋, I'm Amay Jaiswal
 ![Banner](https://github.com/heyamay/heyamay/blob/main/Amay%20Jaiswal%20Banner%20Image.png)
+
 <h3 align="center">Computer science student at KIET Group of Institutions, Ghaziabad</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyamay&label=Profile%20views&color=0e75b6&style=flat" alt="heyamay" /> </p>
 
-- 🔭 I’m currently working on **Mobile Application For Diet Recall**
+- 🔭 I’m currently working on **Various Projects of Data Analysis , Data Visualization , Data science**
 
 - 🌱 I’m currently learning **Data Analysis  & Data Science**
 
