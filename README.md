@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Amay Jaiswal  
 ![Banner](https://github.com/heyamay/heyamay/blob/main/Amay%20Jaiswal%20Banner%20Image)
 
-<h3 align="center">🚀 DevOps & Cloud Enthusiast | B.Tech CSE @ KIET | AWS | Terraform | Jenkins | Docker</h3>
+<h3 align="center">🚀 DevOps & Cloud Enthusiast | B.Tech CS @ KIET Group Of Institutions | AWS | Terraform | Jenkins | Docker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyamay&label=Profile%20views&color=0e75b6&style=flat" alt="heyamay" /> </p>
 
@@ -32,14 +32,14 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/heyamay/)
 
 💬 **Ask Me About:**  
-`AWS` • `Terraform` • `Linux` • `CI/CD` • `Python` • `SQL` • `Power BI` • `Data Analysis` • `Monitoring` • `Jenkins` • `Docker`
+`AWS` • `Terraform` • `Linux` • `CI/CD` • `Python` • `SQL` • `Power BI` • `Kubernetes` • `Monitoring` • `Jenkins` • `Docker`
 
 ---
 
 ## 🌐 Connect With Me:
 
 <p align="left">
-  <a href="https://twitter.com/heyyamay"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://x.com/heyyamay"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/heyamay"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/22356099/amay-jaiswal"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
   <a href="https://instagram.com/hey.amay"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
