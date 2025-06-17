@@ -8,8 +8,8 @@
 ---
 
 🔭 **Currently Building:**  
-• CI/CD Pipelines using **Jenkins, GitHub Actions, and AWS CodePipeline**  
-• Infrastructure as Code with **Terraform & AWS CloudFormation**  
+• CI/CD Pipelines using **Jenkins, GitHub Actions, Gitlab CI, Bitbucket and AWS CodePipeline**  
+• Infrastructure as Code with **Terraform, Ansible, & AWS CloudFormation**  
 • Scalable Applications using **Docker, Kubernetes, EC2, and S3**  
 • Monitoring with **Prometheus & Grafana**
 
@@ -20,8 +20,8 @@
 👯 **Looking to Collaborate on:**  
 • Cloud Projects (AWS)  
 • End-to-End DevOps Pipelines  
-• Infrastructure as Code using Terraform  
-• Monitoring & Logging Stack
+• Infrastructure as Code using Terraform & Ansible
+• Monitoring & Logging Stack with Prometheus and Grafana
 
 📌 **Portfolio Website:** [amayjaiswalportfolio.vercel.app](https://amayjaiswalportfolio.vercel.app)
 
